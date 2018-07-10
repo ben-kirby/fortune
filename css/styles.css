@@ -1,0 +1,23 @@
+#splashButton{
+  opacity: .4;
+}
+
+.splashPage{
+  background-image: url(https://i.ytimg.com/vi/g2cUscfxfiE/maxresdefault.jpg);
+  padding-left: 640px;
+  padding-right: 640px;
+  padding-top: 360px;
+  padding-bottom: 360px;
+}
+
+.jumbotron{
+  display: none;
+}
+
+.fortune{
+  display: none;
+}
+
+.result1{
+  display: none;
+}
